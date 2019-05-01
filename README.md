@@ -1,4 +1,7 @@
+resnet152 普通电脑跑不起来。
+
 ## [DSFD: Dual Shot Face Detector](https://arxiv.org/abs/1810.10220)
+
 
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
 
